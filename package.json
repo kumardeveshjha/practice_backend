@@ -1,0 +1,16 @@
+{
+  "name": "practice_backend",
+  "version": "1.0.0",
+  "description": "Practicing the backend management ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev",
+    "revise",
+    "backend"
+  ],
+  "author": "Devesh Kumar",
+  "license": "ISC"
+}
